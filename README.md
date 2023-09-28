@@ -5,7 +5,27 @@ I am always a student when it comes to coding. Currently, I'm a Masters student 
 
 You can reach out to me via [LinkedIn] (https://www.linkedin.com/in/dhananjay-sunil-menon/)
 
-Here's my resume 📄
+- Here is my [resume 📄] (https://github.com/dhananjaymenon/dhananjaymenon/blob/main/resume/Dhananjay%20CV.pdf)
+
+## Some of my coding projects
+- Types of Stegnography
+- Vehicle Collision Detection System
+- Traffic Speed Radar
+- Data Loss Prevention System
+- Travelling Salesman Problem on Indian dataset
+
+## Skills
+C, C++, Java, Python, MySQL, Photoshop, Figma
+Image Processing, Data Structures and Algorithms, Cloud Computing, Machine Learning
+
+
+
+## Extracurriculars
+- I like playing Piano
+- Badminton
+
+
+
 
 
 

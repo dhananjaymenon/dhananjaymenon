@@ -41,8 +41,10 @@ Python | Java | C | C++ <br>
 MySQL | AWS | Photoshop | Figma <br>
 Image Processing | Data Structures and Algorithms | Cloud Computing | Machine Learning
 
+<!-- 
 ## Extracurriculars
 Do check out my youtube channel!
+-->
 
 <!-- 
 YouTube badge with subscriber count - https://github.com/DenverCoder1/github-readme-youtube-stats#subscribers-badge

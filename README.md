@@ -5,7 +5,7 @@ I am always a student when it comes to coding. Currently, I'm a Masters student 
 
 You can reach out to me via <a href = 'https://www.linkedin.com/in/dhananjay-sunil-menon/'> LinkedIn<a>
 
-- Here is my <a href = 'https://github.com/dhananjaymenon/dhananjaymenon/blob/main/resume/Dhananjay%20CV.pdf'> resume 📄<a>
+- Here is my <a href = 'https://github.com/dhananjaymenon/dhananjaymenon/blob/main/resume/Dhananjay%20CV%20github.pdf'> resume 📄<a>
 
 ## Some of my coding projects
 - <a href = 'https://github.com/dhananjaymenon/Steganography'>Types of Stegnography <a>

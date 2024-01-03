@@ -1,7 +1,7 @@
 ### You have reached Dhananjay's Github profile
 
 ## About Me
-I am always a student when it comes to coding. Currently, I'm a Masters student at the University of Chicago. My intersts include python automation, artificial intelligence and software development.
+I am always a student when it comes to coding. Currently, I'm a Masters graduate at the University of Chicago. My intersts include software development, artificial intelligence and automation.
 
 You can reach out to me via <a href = 'https://www.linkedin.com/in/dhananjay-sunil-menon/'> LinkedIn<a>
 
